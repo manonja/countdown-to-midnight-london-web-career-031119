@@ -9,5 +9,6 @@ def countdown(number)
 end
 
 def countdown_with_sleep(number)
+  num_of_sec = 5
   
 
